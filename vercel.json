@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://jay-downunder.dev",
-      "permanent": true
-    }
-  ]
-}
